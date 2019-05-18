@@ -1,21 +1,38 @@
-d:
-cd..
-dir saturday
-cd saturday
-cd JavaScript2
-dir
+git status
+rm -f JavaSopot2
+rm -rf JavaSopot2
+git clone https://github.com/MattWroclaw/JavaSopot2.git
 cd JavaSopot2
-dir
-git pull
 git status
-clr
-cleam
-clean
-cln
-cls
-dir
+git checkout -branch Branchxx
+git checkout -b Branchxx
+cat > liczbX.txt
+git status
+git add .
+git status
+git commit -m "liczbax"
 git fetch
 git status
+git push origin Branchx
+push origin Branchx
+git push origin Branchx
+git status
 git fetch
+git status
+git push origin Branchx
+git branch
+git remote -v
+git log
+git push origin Branchx
+git fetch
+git checkout master
 git pull
+git checkout Branchx
+git checkout Branchxx
+ls
+git fetc
+git fetch
+git status
+git push origin Branchxx
+git branch
 doskey /history > manyConflicts.txt

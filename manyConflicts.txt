@@ -1,3 +1,49 @@
+
+mdir javaSopot2
+mkdir javaSopot2
+cd javaSopot2
+git clone https://github.com/MattWroclaw/JavaSopot2.git
+git branch -b mate
+git status
+git chceckout -b mate
+git checkout -b mate
+git status
+la -la
+ls -la
+cd JavaSopot2
+ls -la
+git chceckout -b mate
+git checkout -b mate
+git status
+cat > superLiczba.txt
+git status
+git add superLiczba.txt
+git commit -m "dodaje plik z liczba"
+git status
+git push origin mate
+git status
+git branch
+git branch master
+git status
+git fetch
+git checkout -b master
+git chceckout master
+git checkout master
+ls
+git status
+git push origin master
+git branch
+git chceckout mate
+git checkout mate
+git rebase master
+git rebase origin/master
+ls
+git push origin master
+git status
+ls -la
+git fetch
+ls
+doskey /history >manyConflicts.txt
 d:
 cd..
 dir saturday

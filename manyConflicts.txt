@@ -1,0 +1,21 @@
+d:
+cd..
+dir saturday
+cd saturday
+cd JavaScript2
+dir
+cd JavaSopot2
+dir
+git pull
+git status
+clr
+cleam
+clean
+cln
+cls
+dir
+git fetch
+git status
+git fetch
+git pull
+doskey /history > manyConflicts.txt
